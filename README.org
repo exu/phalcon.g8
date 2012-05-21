@@ -1,0 +1,3 @@
+* phalcon.g8 template
+
+Phalcon ([[http://phalconphp.com][http://phalconphp.com]]) Giter8 basic template
